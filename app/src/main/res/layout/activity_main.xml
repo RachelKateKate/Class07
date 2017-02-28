@@ -11,7 +11,8 @@
     tools:context="rachelmiller.class07.MainActivity">
 
     <TextView
+        android:id="@+id/display_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Hello Android" />
 </RelativeLayout>
